@@ -1,0 +1,4 @@
+export default {
+  ADD_TODO: "ADD_TODO",
+  TOGGLE_TODO_COMPLETE: "TOGGLE_TODO_COMPLETE"
+};

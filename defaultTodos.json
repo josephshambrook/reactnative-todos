@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": "todo0001",
+      "title": "Create an app running on Redux",
+      "done": true,
+      "dateCreated": "Thu Sep 20 2018 11:00:00 GMT+0100 (British Summer Time)",
+      "dateDone": "Thu Sep 20 2018 11:01:00 GMT+0100 (British Summer Time)"
+    },
+    {
+      "id": "todo0002",
+      "title": "Create an app running on TypeScript",
+      "done": false,
+      "dateCreated": "Thu Sep 20 2018 11:05:00 GMT+0100 (British Summer Time)",
+      "dateDone": null
+    },
+    {
+      "id": "todo0003",
+      "title": "Create my own NodeJS API",
+      "done": false,
+      "dateCreated": "Thu Sep 20 2018 11:10:00 GMT+0100 (British Summer Time)",
+      "dateDone": null
+    },
+    {
+      "id": "todo0004",
+      "title": "Take a Docker for beginners course",
+      "done": false,
+      "dateCreated": "Thu Sep 20 2018 11:15:00 GMT+0100 (British Summer Time)",
+      "dateDone": null
+    }
+  ],
+  "lists": [
+    {
+      "id": "list0001",
+      "name": "Personal"
+    }
+  ]
+}
